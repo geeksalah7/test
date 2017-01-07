@@ -2,3 +2,4 @@
 
 echo 'Changes made';
 
+$newchangesmade = 1;
